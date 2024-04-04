@@ -194,8 +194,8 @@ export default [
         "username": "olivia_taylor",
         "password": "taylor123",
         "firstName": "Olivia",
-        "lastName":"Rogers",
-        "email": "jackson.smith@gmail.com",
+        "lastName":"Taylor",
+        "email": "taylor.olivia@gmail.com",
         "dob": "February 14, 1983",
         "role": "STUDENT"
     }
